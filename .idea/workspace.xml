@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sso-client-tb:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1734e11a-aae9-4033-9a78-0e8cd2f56258" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/sso_client_tb_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/sso_server_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/classes/META-INF/sso-client-tb.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/classes/com/goodluncky/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/classes/com/goodluncky/interceptor/SsoClientInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/classes/com/goodluncky/util/HttpUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/classes/com/goodluncky/util/SSOClientUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/classes/sso.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/lib/jsp-api-2.2.1-b03.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/lib/lombok-1.18.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/lib/spring-aop-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/lib/spring-beans-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/lib/spring-context-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/lib/spring-core-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/lib/spring-expression-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/lib/spring-jcl-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/lib/spring-web-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/lib/spring-webmvc-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/views/taobao.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_client_tb_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/classes/com/goodluncky/SsoServerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/lib/jsp-api-2.2.1-b03.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/lib/lombok-1.18.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/lib/spring-aop-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/lib/spring-beans-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/lib/spring-context-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/lib/spring-core-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/lib/spring-expression-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/lib/spring-jcl-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/lib/spring-web-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/lib/spring-webmvc-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/views/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/asserts/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/sso_server_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/http/HttpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/util/HttpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-self.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\sso\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.2\conf\settingsperson.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W7V1HZeUUX27jCl01ITyGUZkaW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sso-server" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\sso-client-tb\web" />
+      <recent name="E:\sso-client-tb\src\main\resources" />
+      <recent name="E:\sso-server\web\WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.goodluncky.util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\sso-client-tb\web\WEB-INF" />
+      <recent name="E:\sso-client-tb\web" />
+      <recent name="E:\sso-server\web\asserts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.sso-client-tb">
+    <configuration name="HttpTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.http.HttpTest" />
+      <module name="sso-self" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coding.http.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sso-client-tb" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.99" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8002/sso_client_tb_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="sso-client-tb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/sso_client_tb_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_sso-self_2" />
+        <option name="HTTP_PORT" value="8002" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49936" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="sso-client-tb:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="sso-server" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.99" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="sso-server:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/sso_server_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_sso-self" />
+        <option name="HTTP_PORT" value="8001" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52809" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="sso-server:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HttpTest" />
+      <item itemvalue="Tomcat Server.sso-client-tb" />
+      <item itemvalue="Tomcat Server.sso-server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HttpTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1734e11a-aae9-4033-9a78-0e8cd2f56258" name="Default Changelist" comment="" />
+      <created>1578500403456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578500403456</updated>
+      <workItem from="1578500405729" duration="723000" />
+      <workItem from="1578550897190" duration="684000" />
+      <workItem from="1578559554258" duration="3461000" />
+      <workItem from="1578622874340" duration="7797000" />
+      <workItem from="1578633011926" duration="804000" />
+      <workItem from="1578643920106" duration="9362000" />
+      <workItem from="1578712943271" duration="1777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="282" y="21" key="#Tomcat_Server" timestamp="1578632813932">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="282" y="21" key="#Tomcat_Server/0.0.1366.728@0.0.1366.728" timestamp="1578632813932" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578650632329">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1578650632329" />
+    <state x="424" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578644971657">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="424" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1578644971657" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1578651150009">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578651150009" />
+    <state x="303" y="41" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578624097413">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="303" y="41" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1578624097413" />
+    <state x="434" y="118" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1578644913396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="118" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.728@0.0.1366.728" timestamp="1578644913396" />
+    <state x="364" y="0" width="652" height="728" key="#sso-server" timestamp="1578632153513">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="364" y="0" width="652" height="728" key="#sso-server/0.0.1366.728@0.0.1366.728" timestamp="1578632153513" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1578713999004">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578713999004" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1578714078417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578714078417" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1578714078417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578714078417" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1578714078417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578714078417" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1578714078417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578714078417" />
+    <state width="904" height="147" key="GridCell.Tab.1.bottom" timestamp="1578654346858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="147" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578654346858" />
+    <state width="904" height="147" key="GridCell.Tab.1.center" timestamp="1578654346858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="147" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1578654346858" />
+    <state width="904" height="147" key="GridCell.Tab.1.left" timestamp="1578654346858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="147" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1578654346858" />
+    <state width="904" height="147" key="GridCell.Tab.1.right" timestamp="1578654346858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="147" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1578654346858" />
+    <state width="904" height="147" key="GridCell.Tab.2.bottom" timestamp="1578654346859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="147" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578654346859" />
+    <state width="904" height="147" key="GridCell.Tab.2.center" timestamp="1578654346858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="147" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1578654346858" />
+    <state width="904" height="147" key="GridCell.Tab.2.left" timestamp="1578654346858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="147" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1578654346858" />
+    <state width="904" height="147" key="GridCell.Tab.2.right" timestamp="1578654346859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="147" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1578654346859" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1578713853309">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578713853309" />
+    <state x="53" y="57" key="new project wizard" timestamp="1578623112525">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="53" y="57" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1578623112525" />
+    <state x="392" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1578625638125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578625638125" />
+  </component>
+</project>
